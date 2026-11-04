@@ -15,12 +15,3 @@
   <a href="mailto:contact@timeless-cinema.com"><b>contact@timeless-cinema.com</b></a>
 </p>
 
----
-
-**For cinema programmers:** search a catalog of repertory films by title, cast, director, theme or movement,
-see only what is licensable in your territory, then book at a fixed price or request a tailored proposal.
-
-**For right owners:** import your catalog in bulk, set windows, formats and prices per title and territory,
-and review every request in context before you approve it.
-
-Timeless Cinema is built in France with the support of the [CNC](https://www.cnc.fr).
