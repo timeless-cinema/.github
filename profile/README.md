@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/lockup-dark.png">
-    <img src="assets/lockup-light.png" alt="Timeless Cinema" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/lockup-dark.svg">
+    <img src="assets/lockup-light.svg" alt="Timeless Cinema" width="360">
   </picture>
 </p>
 
