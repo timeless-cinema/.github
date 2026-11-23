@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Your platform for classic films, from discovery to delivery.</b><br>
+  <b>The B2B platform for classic films, from discovery to delivery.</b><br>
   Connecting cinema programmers and right owners around the world.
 </p>
 
